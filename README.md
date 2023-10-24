@@ -1,0 +1,1 @@
+Button click parent to child and child to parent data passing 
